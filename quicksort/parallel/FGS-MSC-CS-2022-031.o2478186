@@ -1,0 +1,106 @@
+
+########################################################################
+#      Date:           Tue 30 Jan 2024 12:38:04 PM PST
+#    Job ID:           2478186.v-qsvr-1.aidevcloud
+#      User:           u211113
+# Resources:           cput=75:00:00,neednodes=1:ppn=2,nodes=1:ppn=2,walltime=00:03:00
+########################################################################
+
+s001-n061
+s001-n061
+Sorted array of 2000000 items. time taken: 6.418951 seconds. THREAD COUNT USED 1.
+
+Sorted array of 2000000 items. time taken: 6.380735 seconds. THREAD COUNT USED 1.
+
+Sorted array of 2000000 items. time taken: 6.394667 seconds. THREAD COUNT USED 1.
+
+Sorted array of 2000000 items. time taken: 6.383605 seconds. THREAD COUNT USED 1.
+
+Sorted array of 2000000 items. time taken: 6.393569 seconds. THREAD COUNT USED 1.
+
+Sorted array of 2000000 items. time taken: 3.461010 seconds. THREAD COUNT USED 2.
+
+Sorted array of 2000000 items. time taken: 3.466103 seconds. THREAD COUNT USED 2.
+
+Sorted array of 2000000 items. time taken: 3.464833 seconds. THREAD COUNT USED 2.
+
+Sorted array of 2000000 items. time taken: 3.455916 seconds. THREAD COUNT USED 2.
+
+Sorted array of 2000000 items. time taken: 3.510746 seconds. THREAD COUNT USED 2.
+
+Sorted array of 2000000 items. time taken: 1.949287 seconds. THREAD COUNT USED 4.
+
+Sorted array of 2000000 items. time taken: 1.948096 seconds. THREAD COUNT USED 4.
+
+Sorted array of 2000000 items. time taken: 1.952824 seconds. THREAD COUNT USED 4.
+
+Sorted array of 2000000 items. time taken: 1.939392 seconds. THREAD COUNT USED 4.
+
+Sorted array of 2000000 items. time taken: 1.959352 seconds. THREAD COUNT USED 4.
+
+Sorted array of 2000000 items. time taken: 1.381935 seconds. THREAD COUNT USED 8.
+
+Sorted array of 2000000 items. time taken: 1.393056 seconds. THREAD COUNT USED 8.
+
+Sorted array of 2000000 items. time taken: 1.428023 seconds. THREAD COUNT USED 8.
+
+Sorted array of 2000000 items. time taken: 1.402997 seconds. THREAD COUNT USED 8.
+
+Sorted array of 2000000 items. time taken: 1.405494 seconds. THREAD COUNT USED 8.
+
+Sorted array of 2000000 items. time taken: 1.552763 seconds. THREAD COUNT USED 12.
+
+Sorted array of 2000000 items. time taken: 1.505019 seconds. THREAD COUNT USED 12.
+
+Sorted array of 2000000 items. time taken: 1.432131 seconds. THREAD COUNT USED 12.
+
+Sorted array of 2000000 items. time taken: 1.502847 seconds. THREAD COUNT USED 12.
+
+Sorted array of 2000000 items. time taken: 1.431260 seconds. THREAD COUNT USED 12.
+
+Sorted array of 2000000 items. time taken: 1.551351 seconds. THREAD COUNT USED 16.
+
+Sorted array of 2000000 items. time taken: 1.609923 seconds. THREAD COUNT USED 16.
+
+Sorted array of 2000000 items. time taken: 1.641022 seconds. THREAD COUNT USED 16.
+
+Sorted array of 2000000 items. time taken: 1.623668 seconds. THREAD COUNT USED 16.
+
+Sorted array of 2000000 items. time taken: 1.627072 seconds. THREAD COUNT USED 16.
+
+Sorted array of 2000000 items. time taken: 1.639415 seconds. THREAD COUNT USED 18.
+
+Sorted array of 2000000 items. time taken: 1.634260 seconds. THREAD COUNT USED 18.
+
+Sorted array of 2000000 items. time taken: 1.627019 seconds. THREAD COUNT USED 18.
+
+Sorted array of 2000000 items. time taken: 1.663715 seconds. THREAD COUNT USED 18.
+
+Sorted array of 2000000 items. time taken: 1.676500 seconds. THREAD COUNT USED 18.
+
+Sorted array of 2000000 items. time taken: 1.804809 seconds. THREAD COUNT USED 20.
+
+Sorted array of 2000000 items. time taken: 1.857604 seconds. THREAD COUNT USED 20.
+
+Sorted array of 2000000 items. time taken: 1.713708 seconds. THREAD COUNT USED 20.
+
+Sorted array of 2000000 items. time taken: 1.840989 seconds. THREAD COUNT USED 20.
+
+Sorted array of 2000000 items. time taken: 1.877165 seconds. THREAD COUNT USED 20.
+
+Sorted array of 2000000 items. time taken: 2.438715 seconds. THREAD COUNT USED 24.
+
+Sorted array of 2000000 items. time taken: 2.474197 seconds. THREAD COUNT USED 24.
+
+Sorted array of 2000000 items. time taken: 2.508677 seconds. THREAD COUNT USED 24.
+
+Sorted array of 2000000 items. time taken: 2.575693 seconds. THREAD COUNT USED 24.
+
+Sorted array of 2000000 items. time taken: 2.411102 seconds. THREAD COUNT USED 24.
+
+
+########################################################################
+# End of output for job 2478186.v-qsvr-1.aidevcloud
+# Date: Tue 30 Jan 2024 12:40:11 PM PST
+########################################################################
+

@@ -1,0 +1,3 @@
+gcc serial.c -o serial
+#rm output.txt
+#rm F*

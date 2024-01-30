@@ -1,0 +1,21 @@
+
+########################################################################
+#      Date:           Tue 30 Jan 2024 01:03:31 PM PST
+#    Job ID:           2478193.v-qsvr-1.aidevcloud
+#      User:           u211113
+# Resources:           cput=75:00:00,neednodes=1:ppn=2,nodes=1:ppn=2,walltime=00:03:00
+########################################################################
+
+s001-n061
+s001-n061
+Sorted array items 2000000. time taken: 4.236746 seconds.
+Sorted array items 2000000. time taken: 4.224119 seconds.
+Sorted array items 2000000. time taken: 4.224506 seconds.
+Sorted array items 2000000. time taken: 4.222742 seconds.
+Sorted array items 2000000. time taken: 4.224979 seconds.
+
+########################################################################
+# End of output for job 2478193.v-qsvr-1.aidevcloud
+# Date: Tue 30 Jan 2024 01:04:03 PM PST
+########################################################################
+
