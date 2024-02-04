@@ -1,0 +1,43 @@
+
+########################################################################
+#      Date:           Sun 04 Feb 2024 08:33:48 AM PST
+#    Job ID:           2481657.v-qsvr-1.aidevcloud
+#      User:           u211113
+# Resources:           cput=75:00:00,neednodes=1:ppn=2,nodes=1:ppn=2,walltime=00:03:00
+########################################################################
+
+s001-n061
+s001-n061
+Fractal Generated. Time taken 0.085605. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.084314. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.084892. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.050806. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.051174. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.050854. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.038608. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.034615. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.034225. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.033808. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.028672. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.029889. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.039080. NUMBER OF THREADS 12
+Fractal Generated. Time taken 0.030590. NUMBER OF THREADS 12
+Fractal Generated. Time taken 0.037874. NUMBER OF THREADS 12
+Fractal Generated. Time taken 0.075816. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.076728. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.058416. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.115980. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.048148. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.073029. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.140808. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.074586. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.056893. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.076895. NUMBER OF THREADS 24
+Fractal Generated. Time taken 0.108872. NUMBER OF THREADS 24
+Fractal Generated. Time taken 0.057473. NUMBER OF THREADS 24
+
+########################################################################
+# End of output for job 2481657.v-qsvr-1.aidevcloud
+# Date: Sun 04 Feb 2024 08:34:35 AM PST
+########################################################################
+

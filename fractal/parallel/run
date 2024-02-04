@@ -1,0 +1,3 @@
+gcc fractalp.c -o parallel -fopenmp
+rm -f F*
+qsub job1.job

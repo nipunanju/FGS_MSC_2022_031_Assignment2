@@ -1,0 +1,17 @@
+#PBS -N FGS-MSC-CS-2022-031
+#PBS -l walltime=00:03:00
+#PBS -l nodes=1
+
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE
+
+for i in 1 2 4 8 12 16 18 20 24
+do
+    for (( j=0; j < 5; j++ ))
+    do
+         OMP_NUM_THREADS=$i ./parallel
+    done
+
+done
+
+# Have a blank line

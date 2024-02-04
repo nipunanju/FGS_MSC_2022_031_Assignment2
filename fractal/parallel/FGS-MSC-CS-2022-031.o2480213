@@ -1,0 +1,40 @@
+
+########################################################################
+#      Date:           Thu 01 Feb 2024 04:28:13 PM PST
+#    Job ID:           2480213.v-qsvr-1.aidevcloud
+#      User:           u211113
+# Resources:           cput=75:00:00,neednodes=1:ppn=2,nodes=1:ppn=2,walltime=00:03:00
+########################################################################
+
+s001-n060
+s001-n060
+Fractal Generated. Time taken 0.086354. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.084113. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.084500. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.049881. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.050345. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.051826. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.035131. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.034323. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.034550. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.028885. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.032169. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.029673. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.040103. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.041618. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.053971. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.049964. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.127630. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.060384. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.069584. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.086047. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.086274. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.075188. NUMBER OF THREADS 24
+Fractal Generated. Time taken 0.075506. NUMBER OF THREADS 24
+Fractal Generated. Time taken 0.072850. NUMBER OF THREADS 24
+
+########################################################################
+# End of output for job 2480213.v-qsvr-1.aidevcloud
+# Date: Thu 01 Feb 2024 04:28:56 PM PST
+########################################################################
+

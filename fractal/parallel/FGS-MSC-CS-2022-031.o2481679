@@ -1,0 +1,61 @@
+
+########################################################################
+#      Date:           Sun 04 Feb 2024 08:48:11 AM PST
+#    Job ID:           2481679.v-qsvr-1.aidevcloud
+#      User:           u211113
+# Resources:           cput=75:00:00,neednodes=1:ppn=2,nodes=1:ppn=2,walltime=00:03:00
+########################################################################
+
+s001-n063
+s001-n063
+Fractal Generated. Time taken 0.090159. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.084797. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.084049. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.084471. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.084307. NUMBER OF THREADS 1
+Fractal Generated. Time taken 0.051005. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.051405. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.050563. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.051303. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.051228. NUMBER OF THREADS 2
+Fractal Generated. Time taken 0.034449. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.035237. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.035928. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.034169. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.035394. NUMBER OF THREADS 4
+Fractal Generated. Time taken 0.031080. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.031123. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.030916. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.030479. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.032359. NUMBER OF THREADS 8
+Fractal Generated. Time taken 0.037068. NUMBER OF THREADS 12
+Fractal Generated. Time taken 0.028040. NUMBER OF THREADS 12
+Fractal Generated. Time taken 0.044342. NUMBER OF THREADS 12
+Fractal Generated. Time taken 0.035924. NUMBER OF THREADS 12
+Fractal Generated. Time taken 0.036162. NUMBER OF THREADS 12
+Fractal Generated. Time taken 0.050213. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.046045. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.052105. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.042996. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.066282. NUMBER OF THREADS 16
+Fractal Generated. Time taken 0.060917. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.058401. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.087382. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.063630. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.078662. NUMBER OF THREADS 18
+Fractal Generated. Time taken 0.094773. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.061737. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.066855. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.075620. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.140154. NUMBER OF THREADS 20
+Fractal Generated. Time taken 0.065048. NUMBER OF THREADS 24
+Fractal Generated. Time taken 0.109909. NUMBER OF THREADS 24
+Fractal Generated. Time taken 0.058419. NUMBER OF THREADS 24
+Fractal Generated. Time taken 0.103151. NUMBER OF THREADS 24
+Fractal Generated. Time taken 0.124025. NUMBER OF THREADS 24
+
+########################################################################
+# End of output for job 2481679.v-qsvr-1.aidevcloud
+# Date: Sun 04 Feb 2024 08:49:26 AM PST
+########################################################################
+

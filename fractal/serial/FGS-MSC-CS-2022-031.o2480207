@@ -1,0 +1,21 @@
+
+########################################################################
+#      Date:           Thu 01 Feb 2024 04:45:17 PM PST
+#    Job ID:           2480207.v-qsvr-1.aidevcloud
+#      User:           u211113
+# Resources:           cput=75:00:00,neednodes=1:ppn=2,nodes=1:ppn=2,walltime=00:03:00
+########################################################################
+
+s001-n061
+s001-n061
+Fractal Generated. Time taken 0.033604
+Fractal Generated. Time taken 0.033969
+Fractal Generated. Time taken 0.034052
+Fractal Generated. Time taken 0.033739
+Fractal Generated. Time taken 0.033577
+
+########################################################################
+# End of output for job 2480207.v-qsvr-1.aidevcloud
+# Date: Thu 01 Feb 2024 04:45:27 PM PST
+########################################################################
+
